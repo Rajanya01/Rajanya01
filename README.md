@@ -70,6 +70,6 @@
   <br/><br/>
 
   <!-- Stickers moved to the end -->
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Vqenl4YzN4cGIybDAxMHMzN2M1c2JycTJ4NDd2ejY3Yzg5YWsyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif)" height="150" alt="Coding Sticker" style="margin-top: 16px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Vqenl4YzN4cGIybDAxMHMzN2M1c2JycTJ4NDd2ejY3Yzg5YWsyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" height="150" alt="Coding Sticker" style="margin-top: 16px;" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azk5a2JmdzhocG03eXBjOHBkM3UzMWJsOTd0YTJyd2RyaWR6MHNyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXr3j6YAClXFfZABn5/giphy.gif" height="150" alt="Let's Code Sticker" style="margin-top: 16px;" />
 </div>

@@ -3,6 +3,9 @@
   <p>
     A passionate 🇮🇳 <b>Full Stack Developer</b> and <b>Game Developer</b> creating <b>futuristic, AI-driven, and immersive experiences</b>.
   </p>
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="Coding Sticker" style="margin-top: 16px;" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="Let's Code Sticker" style="margin-top: 16px;" />
 </div>
 
 ---
@@ -53,7 +56,7 @@
         </a>
       </td>
       <td align="center" style="padding: 20px;">
-        <a href="mailto:rajanyar910040@gmail.com" style="color: white; text-decoration: underline;">
+        <a href="#" id="copyEmail" style="color: white; text-decoration: underline;">
           <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Gmail" /><br/>
           <b>Email</b>
         </a>
@@ -61,6 +64,15 @@
     </tr>
   </table>
 </div>
+
+<script>
+  document.getElementById("copyEmail").addEventListener("click", function (e) {
+    e.preventDefault();
+    navigator.clipboard.writeText("rajanyar910040@gmail.com").then(() => {
+      alert("📧 Email copied to clipboard!");
+    });
+  });
+</script>
 
 ---
 
